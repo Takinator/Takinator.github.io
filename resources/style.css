@@ -93,7 +93,7 @@ a.nav-link{
 }
 
 #home .filter{
-	background: url('https://imgur.com/Np89DY8.jpg') no-repeat;
+	background: url('background.png') no-repeat;
 	background-size: cover;
 	background-position:center;
     position: absolute;
